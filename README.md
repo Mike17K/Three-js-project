@@ -32,3 +32,8 @@ Running the app
 ```
 npm run dev
 ```
+
+```
+npm install --legacy-peer-deps -D postcss autoprefixer
+npx tailwindcss init -p
+```
