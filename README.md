@@ -1,5 +1,7 @@
 # Three Project
 
+Following the tutorial: https://www.youtube.com/watch?v=0fYi8SGA20k&t=1767s
+
 ### Commands for creating the project
 
 Creating react project
