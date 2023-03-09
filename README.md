@@ -37,3 +37,9 @@ npm run dev
 npm install --legacy-peer-deps -D postcss autoprefixer
 npx tailwindcss init -p
 ```
+
+```
+npm install --legacy-peers-deps three
+```
+
+Find loads of 3D models on Sketchfab -> downloadable
