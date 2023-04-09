@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Mike17K/Three-js-project",
+  "homepage": "https://mike17k.github.io/Three-js-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
